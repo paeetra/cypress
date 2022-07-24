@@ -1,0 +1,7 @@
+CostumerServiceShould
+    -FailToCreateCustomer_When_FirstNameIsEmpty
+    -FailToCreateCustomer_When_FirstNameNotStartsWithLowercaseLetter
+    -FailToCreateCostumer_When_LastNameIsEmpty
+    -FailToCreateCustomer_When_ LastNameNotStartsWithLowercaseLetter
+    -FailToCreateCostumer_When_PhoneNumberIsEmpty
+    -FailToCreateCostumer_When_PhoneNumberContainsCharacters
