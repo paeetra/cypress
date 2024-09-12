@@ -1,2 +1,2 @@
-Zadaci riješeni u sklopu KING ICT 2022 QA akademije; 
-Manualno testiranje i automatizirano testiranje u Cypressu.
+KING ICT 2022 QA Academy tasks; 
+Manual and automated testing in Cypress.
